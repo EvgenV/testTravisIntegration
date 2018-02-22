@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode9.2
 xcode_project: testTravisIntegration.xcodeproj
-xcode_scheme: testTravisIntegrationTests
+xcode_scheme: testTravisIntegration
 xcode_sdk: iphonesimulator11.2
